@@ -5,7 +5,8 @@ body {
   line-height: 1.5;
   padding: 4em 1em;
   color: #555;
-  background-color: #f2f2f2;
+  background-color: #c0c0c0;
+
 }
 
 h2 {
@@ -15,4 +16,12 @@ h2 {
 
 h1, h2, strong {
   color: #333;
+} 
+
+#foto { 
+  border-radius: 15%;
+}
+
+#spoti { 
+  border-radius: 5%;
 }
